@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pregnacare1</string>
+    <string name="enter_food_name">Enter Food Name</string>
+    <string name="enter_portion_s_calories">Enter Portion\'s Calories</string>
+    <string name="enter_vitamin_s_consumed_in_grams">Enter Vitamin\'s Consumed in Grams</string>
+    <string name="log">Log</string>
+    <string name="pregnacare">Pregnacare</string>
+    <string name="logout">Logout</string>
+    <string name="log_food">Log food</string>
+    <string name="button">Button</string>
+    <string name="reset">Reset</string>
+</resources>

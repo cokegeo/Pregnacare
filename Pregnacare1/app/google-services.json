@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323494807843",
+    "firebase_url": "https://pregnacare-1f642.firebaseio.com",
+    "project_id": "pregnacare-1f642",
+    "storage_bucket": "pregnacare-1f642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323494807843:android:e4cf837ae9a03b9c172496",
+        "android_client_info": {
+          "package_name": "com.cokegeo.pregnacare1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323494807843-4mqaqlh78hcnjobn8ka6oko1b1vfe5he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cokegeo.pregnacare1",
+            "certificate_hash": "77d1a0af7959b2cc6303fd9cb0df8b5449422fc0"
+          }
+        },
+        {
+          "client_id": "323494807843-j6cg49puugqr8s7sf6irk3d8i9s1kefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHeZj2RjjufcZ_tAvdgXFwF9bJMtvDPDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323494807843-j6cg49puugqr8s7sf6irk3d8i9s1kefe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
